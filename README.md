@@ -22,7 +22,7 @@
       box-shadow: 0 2px 10px 5px rgba(0, 0, 0, 0.5);
 ">
 
-  <img align="right" alt="Coding" width="150" height="150" style="border: 4px solid aliceblue; padding: 2px; border-radius:50%;" src="./raja.png">
+ 
   <div>
 
 🔭 I’m currently working on **Cache-managers**
