@@ -25,13 +25,13 @@
  
   <div>
 
-🔭 I’m currently working on **Cache-managers**
+🔭 Currently working on **Distributed Cache Managers & Agentic AI Systems**
 
-🌱 I’m currently learning **Apache Ignite, SDS**
+🌱Learning **Apache Ignite, Scalable Distributed Systems, GenAI Deployment**
 
-💬 Ask me about **Spring Boot, Hibernate, MySQL**
+💬 Ask me about **Spring Boot, Distributed Systems, RAG, Backend Design**
 
-⚡ Moto **Loyal -> Perfect**
+⚡ Moto: **Loyal → Precise → Impactful**
 
   </div>
 </div>
